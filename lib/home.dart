@@ -13,7 +13,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.red,
         title: Text("My New App" , style: TextStyle(color: Colors.white),),
         leading: Icon(Icons.home , color: Colors.white, size: 40,),),
 
